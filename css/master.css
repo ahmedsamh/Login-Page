@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(113, 226, 226);
+}
+.one {
+  background-color: rgb(75, 75, 74);
+  padding: 10px;
+  width: 250px;
+  height: 300px;
+  margin: 150px auto;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 0 rgb(113, 226, 226) inset;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+  color: rgb(73, 151, 121);
+}
+.user,
+.pass {
+  padding: 10px;
+  margin: 5px 20px;
+}
+
+#m {
+  background-color: rgb(75, 75, 74);
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: rgb(113, 226, 226);
+}
+#n {
+  color: rgb(113, 226, 226);
+  background-color: black;
+  padding: 7px 30px;
+  margin-left: 75px;
+  margin-top: 30px;
+}
+.w {
+  display: flex;
+  justify-content: space-evenly;
+}
+button {
+  color: rgb(113, 226, 226);
+  background-color: black;
+  padding: 5px 20px;
+}
